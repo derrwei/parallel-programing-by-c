@@ -1,0 +1,5 @@
+﻿  exercise3.c
+D:\MSC-Modules\COM6521 Parallel Computing\Lab\Lab 1\Lab01_Exercise03\exercise3.c(31,16): warning C4244: '-=': conversion from 'float' to '__int64', possible loss of data
+  random.c
+  Generating Code...
+  Lab01_Exercise03.vcxproj -> D:\MSC-Modules\COM6521 Parallel Computing\Lab\Lab 1\x64\Debug\Lab01_Exercise03.exe
