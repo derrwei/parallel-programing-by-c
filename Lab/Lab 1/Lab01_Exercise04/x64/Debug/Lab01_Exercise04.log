@@ -1,0 +1,2 @@
+﻿  exercise4.c
+D:\MSC-Modules\COM6521 Parallel Computing\Lab\Lab 1\Lab01_Exercise04\exercise4.c(38,3): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
